@@ -1,0 +1,54 @@
+{
+	"basicdetails":{
+		"image":"pspk.jpg",
+		"name":"kavya",
+		"email":"ravulapallikavyasri@gmail.com",
+		"phone":"7777777777"
+	},
+	"education":[
+		{
+			"course":"b.tech(cse)",
+			"college":"nirula",
+			"percentage":"85%"
+		},
+		{
+			"course":"inter",
+			"college":"narayana",
+			"percentage":"96%"
+		},
+		{
+			"course":"ssc",
+			"college":"vijaya academy",
+			"percentage":"9.7"
+		}
+	],
+	"skills":[
+		{
+			"name":"operating systems",
+			"value":"windows,linux,MAC"
+		},
+		{
+			"name":"programming languages",
+			"value":"C,C++,java python"
+
+		}
+	],
+	"carreer":{
+		"ca":"I am seeking employment with a company where I can grow professionally and personally.I seek challenging opportunities where I can fully use my skills for the success of the organization.I want to succeed in a stimulating and challenging environment that will provide me with advancement opportunities.I want to excel in this field with hard work, perseverance and dedication.I want a highly rewarding career where I can use my skills and knowledge for organizational and personal growth."
+
+
+	},
+	"achievements":[
+		"i got first prize in jam session in my college",
+		"i got second prize in mime in my college",
+		"i got first prize in query cracking",
+		"i got first prize in power point presentation in our college"
+	],
+	"descriptions":		{
+		"d":"i am ravulapallikavyasri pursuing b.tech in vignans nirula"
+		}	
+
+}
+
+
+
